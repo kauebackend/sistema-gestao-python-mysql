@@ -19,4 +19,11 @@ Sistema de linha de comando para gerenciamento de usuários e tarefas.
 3. Instale as dependências:
    pip install -r requirements.txt
 4. Execute:
+
    python main.py
+
+   ## 🧠 Aprendizados
+- Conexão com banco MySQL
+- Organização de projeto em Python
+- Separação de responsabilidades
+- CRUD e autenticação básica
